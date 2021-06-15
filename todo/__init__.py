@@ -21,7 +21,6 @@ def create_app():
 
     app.register_blueprint(todo.bp)
     app.register_blueprint(auth.bp)
-    # app.register.blueprint(auth.bp)
 
     return app
 
