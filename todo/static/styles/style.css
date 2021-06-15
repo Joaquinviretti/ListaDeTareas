@@ -1,0 +1,41 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    color: aliceblue;
+}
+
+.view {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+body {
+    background-color: rgb(104, 104, 104);
+}
+
+.nav-list {
+    display: flex;
+}
+
+.nav-list {
+    list-style: none;
+}
+
+.nav-list a {
+    text-decoration: none;
+}
+
+.nav-list li {
+    margin-right: 2em;
+}
+
+.button {
+    color: black;
+}
+
+form input {
+    color: black;
+}
